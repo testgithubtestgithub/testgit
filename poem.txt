@@ -4,5 +4,6 @@ third
 and four
 fifth
 sixth
+indigo
 seventh
 what you do here a number four?
